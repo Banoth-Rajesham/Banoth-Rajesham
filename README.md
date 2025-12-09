@@ -66,21 +66,21 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Banoth-Rajeshsam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=Banoth-Rajesham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banoth-Rajeshsam&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banoth-Rajesham&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🧩 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Banoth-Rajeshsam&theme=tokyo-night&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Banoth-Rajesham&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 👁 Visitor Count
 
-![Visitors](https://komarev.com/ghpvc/?username=Banoth-Rajeshsam&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Banoth-Rajesham&color=blue&style=flat-square)
 
 ---
 
