@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 - I build intelligent automation systems for real-world workflows  
-- Focused on AI Agents, backend automation, and scalable data systems  
+- Focused on AI agents, backend automation, and scalable data systems  
 - Improving production-level LLM pipelines and AI deployment workflows  
 
 ---
@@ -66,22 +66,21 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats-mu-ten-99.vercel.app/api?username=Banoth-Rajeshsam&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Banoth-Rajeshsam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
 
-![Top Langs](https://github-readme-stats-mu-ten-99.vercel.app/api/top-langs/?username=Banoth-Rajeshsam&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banoth-Rajeshsam&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🧩 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Banoth-Rajeshsam&theme=react-dark&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Banoth-Rajeshsam&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 👁 Visitors
+## 👁 Visitor Count
 
 ![Visitors](https://komarev.com/ghpvc/?username=Banoth-Rajeshsam&color=blue&style=flat-square)
-
 
 ---
 
@@ -89,9 +88,3 @@
 
 📌 LinkedIn → https://linkedin.com/in/banothrajesham  
 📌 Portfolio → https://mygreatlearning.com/eportfolio/banoth-rajesham  
-
----
-
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Banoth-Rajeshsam&theme=react-dark)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Banoth-Rajeshsam)
