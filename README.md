@@ -66,9 +66,14 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Banoth-Rajesham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banoth-Rajesham&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-k4xr.vercel.app/api?username=Banoth-Rajesham&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Banoth-Rajesham&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
 
 ---
 
