@@ -1,7 +1,13 @@
-# 👋 Hi, I'm Rajesham
+<h1 align="center">👋 Hello! I'm <span style="color:#ff4e88;">Rajesham</span></h1>
 
-🚀 AI/ML Data Scientist  
-🔧 AI Agents | Backend Automation | NLP | LLM Apps | Autonomous Workflows  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E8FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;AI+Agent+Builder;Backend+Automation+Developer;LLM+Workflow+Designer;NLP+Engineer" />
+</p>
+
+---
+
+<p align="center"><b>🚀 AI/ML Data Scientist</b></p>
+<p align="center">🔧 AI Agents | Backend Automation | NLP | LLM Apps | Autonomous Workflows</p>
 
 ---
 
@@ -12,14 +18,14 @@
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 ---
 
 ### 🤖 AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-121212?style=for-the-badge&logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-0A75AD?style=for-the-badge)
 ![Jina AI](https://img.shields.io/badge/JinaAI-FF00E5?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
@@ -69,11 +75,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats-k4xr.vercel.app/api?username=Banoth-Rajesham&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Banoth-Rajesham&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
-
 
 ---
 
